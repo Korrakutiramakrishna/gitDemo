@@ -10,7 +10,6 @@ public class Snippet {
 		System.out.println("commit1");
 		System.out.println("commit2");
 		System.out.println("commit3");
-		System.out.println("commit1");
 		System.out.println("recent commites");
 		System.out.println("Om namah Sivaiah");
 		try {
@@ -20,9 +19,17 @@ public class Snippet {
 		catch(Exception e)
 		{
 			System.out.println("i Love you 2");
-			
+		}
+	}
+		public static void Test()
+		{
+			System.out.println(":)==>at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)");
+		}
+		public static void Test(String name)
+		{
+			System.out.println(":)==>at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)");
 		}
 		
-	}
+	
 }
 
