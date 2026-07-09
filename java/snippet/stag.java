@@ -5,6 +5,7 @@ public class stag
 	public  static void Method()
 	{
 		System.out.println("org.openqa.selenium.SessionNotCreatedException ==>");
+<<<<<<< HEAD
 		System.out.println("org.openqa.selenium.SessionNotCreatedException :)stag.java");
 	}
 	public  static void Method(int number)
@@ -16,6 +17,10 @@ public class stag
 	{
 		System.out.println("org.openqa.selenium.SessionNotCreatedException ==>");
 		System.out.println("org.openqa.selenium.SessionNotCreatedException :)stag.java");
+
+		System.out.println("org.openqa.selenium.SessionNotCreatedException :)");
+		System.out.println("org.openqa.selenium.SessionNotCreatedException :)");
+
 	}
 
 
