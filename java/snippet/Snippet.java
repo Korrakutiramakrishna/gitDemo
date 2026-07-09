@@ -15,6 +15,7 @@ public class Snippet {
 		System.out.println("Om namah Sivaiah");
 		try {
 			System.out.println("i love you ");
+			System.out.println("org.openqa.selenium.SessionNotCreatedException ==>"+driver.toString());
 		}
 		catch(Exception e)
 		{
