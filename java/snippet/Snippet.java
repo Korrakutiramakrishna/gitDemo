@@ -7,6 +7,10 @@ public class Snippet {
 	public static void main(String[] args) 
 	{
 		WebDriver driver =new EdgeDriver();
+		System.out.println("commit1");
+		System.out.println("commit1");
+		System.out.println("commit1");
+		System.out.println("commit1");
 		
 	}
 }
