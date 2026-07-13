@@ -30,7 +30,7 @@ public class pcts
 		System.out.println("NotCreatedException :)stag.appium");
 		System.out.println("NotCreatedException :)stag.pythomn");
 	}
-<<<<<<< HEAD
+
 	public  static void develop2()
 	{
 		System.out.println("SessionNotCreatedException ==>");
@@ -38,7 +38,4 @@ public class pcts
 		System.out.println("NotCreatedException :)stag.appium");
 		System.out.println("NotCreatedException :)stag.pythomn");
 	}
-=======
-	
->>>>>>> c7ef1dbf4e0354cb2768090a5015c13833b70144
-}
+
