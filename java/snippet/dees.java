@@ -30,5 +30,11 @@ public class pcts
 		System.out.println("NotCreatedException :)stag.appium");
 		System.out.println("NotCreatedException :)stag.pythomn");
 	}
-	
+	public  static void hearts()
+	{
+		System.out.println("SessionNotCreatedException ==>");
+		System.out.println("NotCreatedson :)stag.java");
+		System.out.println("NotCreatedException :)stag.appium");
+		System.out.println("NotCreatedException :)stag.pythomn");
+	}
 }
