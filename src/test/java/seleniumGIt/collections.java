@@ -19,6 +19,6 @@ public class collections
      System.out.println(i1.next());
      System.out.println(i1.hasPrevious());
      }
-        /* it used for read the */
+       
     }
 }
