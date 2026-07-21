@@ -8,18 +8,24 @@ public class ksds
 		{
 			System.out.println((i));
 		}
-		System.out.println("2");
-		
+		System.out.println("*******");
+		importdata();
+		importdata1();
+		importdata2();
 	}
 	public static void importdata()
 	{
-		System.out.println("2");
-		System.out.println("2");
+		System.out.println("3");
+		System.out.println("4");
 		
 	}
 
 	public static void importdata1()
-	{System.out.println("2");
+	{System.out.println("5");
+	
+	}
+	public static void importdata2()
+	{System.out.println("5");
 	
 	}
 		
