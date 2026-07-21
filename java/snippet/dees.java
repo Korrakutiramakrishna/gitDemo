@@ -23,7 +23,22 @@ public class pcts
 		System.out.println("NotCreatedException :)stag.appium");
 		System.out.println("NotCreatedException :)stag.pythomn");
 	}
-	public  static void DRDO4()
+	public  static void develop()
+	{
+		System.out.println("SessionNotCreatedException ==>");
+		System.out.println("NotCreatedson :)stag.java");
+		System.out.println("NotCreatedException :)stag.appium");
+		System.out.println("NotCreatedException :)stag.pythomn");
+	}
+	public  static void hearts()
+	{
+		System.out.println("SessionNotCreatedException ==>");
+		System.out.println("NotCreatedson :)stag.java");
+		System.out.println("NotCreatedException :)stag.appium");
+		System.out.println("NotCreatedException :)stag.pythomn");
+	}
+	
+	public  static void artsws()
 	{
 		System.out.println("SessionNotCreatedException ==>");
 		System.out.println("NotCreatedson :)stag.java");
