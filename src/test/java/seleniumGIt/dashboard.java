@@ -24,6 +24,7 @@ public class dashboard
 	        {
 	            try 
 	            {
+					  System.out.print("A");
 	                System.out.print("A");
 	                throw new NullPointerException ("Hello");
 	            }
